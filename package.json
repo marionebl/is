@@ -1,6 +1,6 @@
 {
 	"name": "@marionebl/is",
-	"version": "0.5.0",
+	"version": "0.5.1-0",
 	"description": "Type check values: `is.string('🦄') //=> true`",
 	"license": "MIT",
 	"repository": "sindresorhus/is",
